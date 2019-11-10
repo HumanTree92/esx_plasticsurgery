@@ -13,7 +13,7 @@ Config.BlipPlasticSurgery = {
 	Scale = 1.0
 }
 
-Config.Price = 5000 -- Edit to your liking.
+Config.Price = 3700 -- Edit to your liking.
 
 Config.EnableUnemployedOnly = true -- If true it will only show Blips to Unemployed Players | false shows it to Everyone.
 Config.EnableBlips = true -- If true then it will show blips | false does the Opposite.
@@ -22,6 +22,7 @@ Config.EnablePeds = true -- If true then it will add Peds on Markers | false doe
 Config.Locations = {
 	--{ x = 402.85, y = -998.4, z = -100.0, heading = 180.0 }, -- Police Booking Room
 	{ x = 260.3, y = -1343.68, z = 23.54, heading = 257.66 } -- Hospital Bottom Floor
+	--{ x = 340.0, y = -581.9, z = 27.79, heading = 281.39 } -- Pillbox Hill MLO
 }
 
 Config.Zones = {}
