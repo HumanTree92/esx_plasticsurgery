@@ -3,6 +3,9 @@ Plastic Surgery based on ESX Servers
 
 This is just a simple Code that i put together to allow players to fully change their Player.
 
+# NOTE:
+This will no longer be updated. Please use my esx_advancedhospital if you want an updated Version.
+
 # Requirements:
 * Required:
   * [esx_skin](https://github.com/ESX-Org/esx_skin)
@@ -14,19 +17,24 @@ This is just a simple Code that i put together to allow players to fully change 
 3) Place `esx_plasticsurgery` in your ESX Directory
 4) Add `start esx_plasticsurgery` to your server.cfg
 
-# Other:
+# Other Scripts:
 If you like this please check out some of my other stuff like
 * [esx_advancedgarage](https://github.com/HumanTree92/esx_advancedgarage)
+* [esx_advancedvehicleshop](https://github.com/HumanTree92/esx_advancedvehicleshop)
+* [esx_advancedhospital](https://github.com/HumanTree92/esx_advancedhospital)
+* [esx_extraitems](https://github.com/HumanTree92/esx_extraitems)
+* [esx_licenseshop](https://github.com/HumanTree92/esx_licenseshop)
+* [esx_vehiclespawner](https://github.com/HumanTree92/esx_vehiclespawner)
+* [FiveM_CustomMapAddons](https://github.com/HumanTree92/FiveM_CustomMapAddons)
+
+# Archived Scripts:
+Scripts that will no longer be Maintained.
 * [esx_aircraftshop](https://github.com/HumanTree92/esx_aircraftshop)
 * [esx_boatshop](https://github.com/HumanTree92/esx_boatshop)
 * [esx_truckshop](https://github.com/HumanTree92/esx_truckshop)
-* [esx_extraitems](https://github.com/HumanTree92/esx_extraitems)
-* [esx_licenseshop](https://github.com/HumanTree92/esx_licenseshop)
 * [esx_plasticsurgery](https://github.com/HumanTree92/esx_plasticsurgery)
-* [esx_vehiclespawner](https://github.com/HumanTree92/esx_vehiclespawner)
 * [esx_hospital](https://github.com/HumanTree92/esx_hospital)
 * [esx_panicbutton](https://github.com/HumanTree92/esx_panicbutton)
-* [FiveM_CustomMapAddons](https://github.com/HumanTree92/FiveM_CustomMapAddons)
 
 # Visit Velociti Entertainment:
 * TS3 - ts3.velocitientertainment.com
